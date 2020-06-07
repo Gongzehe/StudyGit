@@ -1,4 +1,5 @@
 (function(global) {
+	//bug22222222222222222222222222 
 	var document = global.document,
 		arr = [],
 		slice = arr.slice,
