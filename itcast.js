@@ -1,4 +1,5 @@
 (function(global) {
+	 //修改bug   gongzehe 2020/06/07 ==============================================hahaha11111
 	var document = global.document,
 			arr = [],
 			slice = arr.slice,
