@@ -9,7 +9,7 @@
 			itcast = function(selector, context) {
 				return new itcast.fn.init(selector, context);
 			};
-    //修改bug   gongzehe 2020/06/07 ==============================================
+    //修改bug   gongzehe 2020/06/07 ==============================================hahaha
 	itcast.fn = itcast.prototype = {
 		constructor: itcast,
 		length: 0, // 保持itcast对象 在任何条件下都是 伪数组对象
